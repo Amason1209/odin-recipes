@@ -1,1 +1,3 @@
 # odin-recipes
+
+This was a fun practice lesson. I created the recipes with my diet in mind since I'm currently going through Keto to lose those pandemic pounds. I had to remind myself of some of the commands early on. I originally made the html boilerplate setup myself then decided to save the time with the auto command - don't judge me for it. Uniformity was an interesting thing trying to achieve between all three pages. Once I understood, I thought I did well with what I had access to. Obviously each page is pretty bland, and the pictures <em>could</em> be better but it is what it is! Very exciting first project :)
