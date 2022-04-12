@@ -1,0 +1,19 @@
+.button {
+    background-color: green;
+    color: white;
+    font-size: 36px;
+}
+.link {
+    background-color: white;
+    color: blue;
+    font-size: 24px;    
+}
+img {
+    height: auto;
+    width: 300px;
+}
+body {
+    text-align: center;
+    align-content: center;
+    font-family: "Times New Roman", sans-serif;
+}
